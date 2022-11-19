@@ -1,0 +1,23 @@
+ion-menu {
+    max-width: 250px;
+    background: transparent;
+}
+
+ion-menu.md ion-content {
+    --padding-start: 8px;
+    --padding-end: 8px;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+}
+
+ion-list {
+    display: contents !important;
+}
+
+ion-label {
+    cursor: pointer;
+}
+
+ion-icon {
+    cursor: pointer;
+}
